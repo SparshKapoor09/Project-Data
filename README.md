@@ -1,6 +1,3 @@
-This repository contains some field images and Sensor data.
-The sensor data is about mulch temperature variation during day with time.
-Arduino was used to record the data. (Temperature sensor compiled with Arduino to recoed data)
-Images of field has been shown aloing with some strawberries photos.<br>
-One of the files contain layout of the field. <br>
+This repository contains data and visual documentation from my season-long research on developing an IoT-based automated drip irrigation system for strawberries. The files include a comprehensive dataset of environmental sensor readings logged at 25-minute intervals (25 minute sensor data.xlsx), alongside the corresponding analytical plot images. Additionally, you will find detailed layout diagrams of the experimental setup and a gallery of field images showcasing the physical research conditions and crop progression throughout the growing season.
+
 Kindly donot share the data as it contain some senstive data related to the project.
